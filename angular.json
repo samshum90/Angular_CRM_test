@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngsimplecrm"
+    }
+  },
+  "defaultProject": "ngsimplecrm",
+  "cli": {
+    "analytics": false
+  }
 }
